@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Homepage hero section",
+    "content": "Interactive Online Courses: Connect, Learn, Grow. Experience self paced and cohort based learning to build lasting connections. The homepage includes All Courses and Explore more buttons.",
+    "source_url": "https://connected.nust.edu.pk/"
+  },
+  {
+    "title": "Homepage intro video",
+    "content": "The homepage hero contains an embedded YouTube video. Video URL: https://youtube.com/embed/yyhL6Zbu-dY?showinfo=0&rel=0",
+    "source_url": "https://connected.nust.edu.pk/"
+  },
+  {
+    "title": "Why NUST ConnectEd",
+    "content": "Flexible Learning Experience: flexibility with pre-recorded courses and structured cohort-based learning. Expert-Led Courses: taught by industry experts and seasoned educators. Interactive Cohort Model: fosters collaboration, discussion, and networking opportunities. Comprehensive Learning Resources: supplementary materials, resources, and assessments.",
+    "source_url": "https://connected.nust.edu.pk/"
+  },
+  {
+    "title": "Homepage FAQ section",
+    "content": "Frequently Asked Questions on the homepage include: When should I apply? What is hybrid-based learning about? What is Self Paced Learning about? How to enroll in the course at ConnectEd? Where do I access my student account? How do I decide which courses to take? Where do I ask technology questions?",
+    "source_url": "https://connected.nust.edu.pk/?redirect=#faq"
+  },
+  {
+    "title": "Homepage enrollment callout",
+    "content": "The homepage highlights that enrollments for Math Condensed Course are open and includes an Enroll Now button linked to the enrollment page for course id 186.",
+    "source_url": "https://connected.nust.edu.pk/"
+  },
+  {
+    "title": "Homepage support contact",
+    "content": "The footer shows Contact Us: info@connected.nust.edu.pk.",
+    "source_url": "https://connected.nust.edu.pk/"
+  },
+  {
+    "title": "Homepage important links",
+    "content": "Important links shown in the footer include FAQ's, About Us, and Contact Us. Policy links include Terms and Conditions, Privacy Policy, Refund and Exchange Policy, and Delivery Policy.",
+    "source_url": "https://connected.nust.edu.pk/"
+  },
+  {
+    "title": "Homepage social links",
+    "content": "The footer includes Linkedin, Facebook, and Instagram links for ConnectEd.",
+    "source_url": "https://connected.nust.edu.pk/"
+  }
+]

@@ -1,0 +1,1048 @@
+NUST ConnectEd — Complete Course Knowledge Base
+Platform: https://connected.nust.edu.pk/course/
+Contact: info@connected.nust.edu.pk
+Last Compiled: May 2026
+
+PLATFORM OVERVIEW
+NUST ConnectEd is the online learning platform of the National University of Sciences and Technology (NUST), Pakistan. It offers self-paced professional development courses, credit courses, and admission-prerequisite courses. Most courses cost PKR 7,000 and are fully online. Payment can be made via debit/credit card or HBL bank transfer.
+Bank Transfer Details (for applicable courses):
+
+Bank: HBL
+Account Title: NUST ONLINE AC
+Account Number: 22927901792901
+IBAN: PK16HABB0022927901792901
+After transfer, email receipt + full name + registered email to: info@connected.nust.edu.pk
+Enrollment via bank transfer takes up to 48 hours.
+
+Standard Course Inclusions (vary by course):
+Assignments, Custom Certificates, Feedback, Forums, Quizzes, Resources, Video Lectures, Surveys
+
+COURSE 1: Applied Machine Learning and Data Analytics for Beginners
+
+URL: https://connected.nust.edu.pk/course/view.php?id=3
+Category: Computing / Artificial Intelligence
+Price: PKR 7,000
+Format: Self-Paced
+Students Enrolled: 28
+Last Updated: 23 February 2026
+Rating: Not yet rated
+
+Description
+An introductory course for non-computing professionals who want to harness machine learning across fields like healthcare, marketing, finance, and education. Covers data preprocessing, exploratory analysis, supervised/unsupervised ML, and neural networks. Ends with a Capstone Project.
+What You'll Learn
+
+Data exploration and preprocessing
+Scenario-based machine learning model selection
+Machine learning model development
+Communicating results effectively
+Unsupervised ML: clustering
+Supervised ML: classification, regression, loss functions
+Artificial Neural Networks (ANN), Multi-Layer Perceptron (MLP)
+Activation functions, gradient descent, optimizers, backpropagation
+Overfitting/underfitting, cross-validation, dropout regularization
+Model vs. hyperparameter tuning
+
+Prerequisites
+
+Basic Python programming knowledge
+Computer literacy (standard office software)
+STEM background (Science, Technology, Engineering, Mathematics)
+
+Course Modules
+
+Module 1: Data basics — What is Data?, Collection & Preprocessing, Visualization, Exploration, Feature Engineering
+Module 2: Unsupervised ML — Introduction, Clustering
+Module 3: Supervised ML — Regression, Classification, Loss Functions, Popular Algorithms
+Module 4: Neural Networks — AI Landscape, ANN, Perceptron, MLP, Activation Functions, Loss Functions, Gradient Descent, Optimizers, Backpropagation, Overfitting/Underfitting, Cross Validation, Dropout, Hyperparameter Tuning, Case Study
+Capstone Project
+Course Certificate
+
+Course Content Stats
+
+Sections: 39
+Activities: 48
+Resources: 58
+
+Technical Requirements
+
+Reliable internet connection
+Computer or mobile device with webcam
+Audio and video capabilities
+Compatible web browser (Chrome, Firefox)
+
+Who Should Enroll
+
+Beginners in Data Science
+CS/statistics students
+Professionals transitioning into data science/ML
+Entry-level Data and AI professionals
+Tech enthusiasts
+
+Instructors
+
+Dr. Momina Moetesum — Assistant Professor, SEECS NUST. PhD Computer Science (2021), Bahria University. Research areas: Handwriting Analysis, DocumentAI, Computer Vision, NLP. 30+ publications. Hubert Curien PERIDOT Research Grant recipient.
+Rabia Irfan
+Junaid Younas
+
+Includes
+Assignments, Custom Certificates, Forums, Quizzes, Resources
+
+COURSE 2: Agile Project Management
+
+URL: https://connected.nust.edu.pk/course/view.php?id=5
+Category: Business / IT / Project Management
+Price: PKR 7,000
+Format: Self-Paced
+Students Enrolled: 43
+Last Updated: 9 February 2026
+Rating: 3.33 / 5 (3 ratings)
+
+Description
+A comprehensive course on Agile methodology covering its history, principles, tools, techniques, and the popular Jira software. Designed to give practical, real-world Agile knowledge applicable to modern project management.
+What You'll Learn
+
+Basics of project management
+Triple constraints and project lifecycle
+The Agile Manifesto and its principles
+Popular Agile software and certifications
+Tools and techniques used by Agile practitioners
+Hands-on practice with Jira
+
+Prerequisites
+
+A laptop or desktop
+High-speed internet connection
+Basic use of MS Word and supporting software
+Preliminary awareness of project management
+
+Course Modules
+
+Introduction to the Course (syllabus, netiquette policy, facilitator bios)
+Module 1: Introduction to Agile Project Management
+Module 2: Agile Project Management Features and Techniques
+Module 3: Introduction to Jira
+End Course Exam
+Course Conclusion
+
+Course Content Stats
+
+Sections: 6
+Activities: 19
+Resources: 55
+
+Technical Requirements
+
+Laptop or desktop
+High-speed internet
+
+Who Should Enroll
+
+Project Management Beginners
+Aspiring Agile Practitioners
+Current Project Managers
+Students in business, IT, or related fields
+Tech Enthusiasts
+
+Instructors
+
+Dr. Muhammad Kamran Khalid — 24 years experience in Silicon Valley and academia. Certified PMP, CSCP, Six Sigma Black Belt, ISO 9001/14001/OHSAS 18001 Lead Auditor. 55+ PMP workshops, 100+ certified PMP students. MBA Telecom Management (USA), PhD Sustainable Supply Chains.
+Dr. Afshan Naseem — Associate Professor, NUST. 10+ years teaching project management. Research focus: latest trends in project management.
+Dr. Asjad Shahzad — Assistant Professor, NUST. PhD Project Management. ~10 years industrial and academic experience in agile PM.
+Dr. Taiba Zahid — Associate Professor, NUST Business School.
+
+Includes
+Assignments, Custom Certificates, Forums, Quizzes, Resources
+Student Reviews
+
+Praised for being "full of learning and knowledge"
+Some criticism about course organization, navigation, and timezone misalignment
+
+
+COURSE 3: Unity Game Development: Basics of Design, Art and Coding
+
+URL: https://connected.nust.edu.pk/course/view.php?id=178
+Category: Engineering and Computer Science
+Price: PKR 7,000
+Format: Self-Paced
+Students Enrolled: 16
+Last Updated: 14 May 2026
+Rating: Not yet rated
+
+Description
+Covers the basics of game design, art, and coding using the Unity game development engine.
+Note
+Full detailed module breakdown not publicly available. Contact info@connected.nust.edu.pk for more details.
+Includes
+Custom Certificates, Forums, Quizzes, Resources (standard)
+
+COURSE 4: Essentials of Corporate Written Communication
+
+URL: https://connected.nust.edu.pk/course/view.php?id=46
+Category: Professional and Personal Development
+Price: PKR 7,000
+Format: Self-Paced
+Students Enrolled: 15
+Last Updated: 11 February 2026
+Rating: Not yet rated
+Duration: ~4 weeks / 15 learning hours
+
+Description
+A concise course to enhance individual and organizational competency in corporate written communication. Integrates generative AI tools to improve clarity, coherence, and professional writing effectiveness.
+What You'll Learn
+
+Tools for effective corporate communication
+How to write emails, memos, resumes, reports, and proposals
+Use of generative AI for written communication
+Advanced techniques for clarity, coherence, and effectiveness
+Ethical considerations of using generative AI
+
+Prerequisites
+
+Basic English proficiency
+Basic computer skills
+
+Course Modules
+
+General (Welcome, Instructor profile, navigation guide, reference book)
+Module 1: Mastering the Writing Process — Stages from Concept to Completion
+Module 2: Crafting Impactful Messages — Effective and Persuasive Writing
+Module 3: Correspondence in Writing
+Module 4: AI-Driven Writing — Techniques and Ethics
+Completion Certificate
+
+Course Content Stats
+
+Sections: 6
+Activities: 16
+Resources: 39
+
+Technical Requirements
+
+Reliable internet connection
+Computer or mobile device with webcam
+Audio and video capabilities
+Compatible web browser (Chrome, Firefox)
+
+Who Should Enroll
+
+Anyone aspiring to excel in a corporate environment
+Anyone seeking to use generative AI in written communication
+Organizations wanting to upskill employees in professional writing
+Students entering corporate or research fields
+Anyone wanting to improve corporate written communication skills
+
+Instructor
+Neelma Riaz — Lecturer at NUST, PhD candidate in Linguistics. Certified in Neurolinguistics Programming by American Board of NLP. Presenter at national and international conferences.
+Includes
+Custom Certificates, Feedback, Forums, Quizzes, Resources
+
+COURSE 5: Essentials of Customer Analytics
+
+URL: https://connected.nust.edu.pk/course/view.php?id=50
+Category: Business and Social Sciences
+Price: PKR 7,000
+Format: Self-Paced (Coming Soon — not yet fully launched)
+Students Enrolled: 3
+Last Updated: 14 May 2026
+Rating: Not yet rated
+Duration: 6–8 weeks
+
+Description
+Explores the synergy between data and decisions. Covers systematic data collection, interpretation, and informed business decision-making using customer analytics techniques including predictive modeling, data visualization, and segmentation.
+What You'll Learn
+
+Data capture
+Data exploration
+Development of predictive models
+Optimization of predictive models
+Data-driven decisions
+
+Prerequisites
+
+Knowledge of basic consumer market terminology
+
+Course Modules
+
+General (Welcome, navigation guide, instructor profile, introduce yourself)
+Essentials of Customer Analytics Topic Videos
+
+Course Content Stats
+
+Sections: 2
+Activities: 13
+Resources: 3
+
+Technical Requirements
+
+Reliable internet connection
+Computer or mobile device with webcam
+Audio and video capabilities
+Compatible web browser (Chrome, Firefox)
+
+Who Should Enroll
+Entry-level professionals and market researchers in:
+
+Business Intelligence
+Marketing Strategy
+Quantitative Research
+Market Research
+Customer Experience
+
+Instructor
+Dr. Amber Raza
+Includes
+Feedback, Forums, Resources, Video Lectures
+
+COURSE 6: Emotional Intelligence: Building a Successful Career
+
+URL: https://connected.nust.edu.pk/course/view.php?id=6
+Category: Professional and Personal Development
+Price: PKR 7,000
+Format: Self-Paced
+Students Enrolled: 58
+Last Updated: 11 February 2026
+Rating: 4.4 / 5 (5 ratings)
+
+Description
+Inspired by Dr. Daniel Goleman's pioneering work on Emotional Intelligence (EI). Covers all five core EI components — self-awareness, self-regulation, motivation, empathy, and social skills — with practical application for interpersonal relationships, leadership, and quality of life. Ends with a Capstone action plan.
+What You'll Learn
+
+Emotional Intelligence (what it is and why it matters)
+Self-Awareness
+Self-Management
+Social Awareness
+Relationship Management
+Reflection techniques
+SMART Goals Development
+
+Prerequisites
+
+8th-grade English reading and comprehension level
+Laptop or desktop
+High-speed internet connection
+Basic use of MS Word and supporting software
+
+Course Modules
+
+Introduction Module (welcome, syllabus, netiquette, communication expectations, facilitator bios)
+Module 1: Emotional Intelligence and Career Success — An Introduction
+Module 2: Self-Awareness
+Module 3: Self-Management
+Module 4: Social Awareness
+Module 5: Relationship Management
+Module 6: Action Planning — EI and Career Success (Capstone)
+Course Evaluation and Feedback
+Course Conclusion
+
+Course Content Stats
+
+Sections: 9
+Activities: 36
+Resources: 42
+
+Who Should Enroll
+
+Professionals seeking to enhance leadership and interpersonal skills
+Students wanting better academic and social success
+Aspiring leaders
+Personal development enthusiasts
+HR professionals and managers
+
+Instructors
+
+Maheen Rabbani — Lecturer, Dept. of Behavioural Sciences, NUST. MS Clinical Psychology (NUST). Developed telecounseling service, grief counseling, suicide prevention training.
+Gulmeena Tahir — Lecturer, Dept. of Behavioural Sciences, NUST. MS Clinical Psychology (NUST). Certified in Health Professionals Education and Online Course Development (University of Utah). Counselor on UNICEF Mental Health project.
+
+Includes
+Assignments, Custom Certificates, Feedback, Forums, Quizzes, Resources
+Student Reviews
+
+"Super helpful for building leadership and interpersonal skills"
+"Helped at work and in personal life — clear and relatable"
+Rating breakdown: 60% five-star, 20% four-star, 20% three-star
+
+
+COURSE 7: Essentials of Medical Emergencies for Healthcare Professionals
+
+URL: https://connected.nust.edu.pk/course/view.php?id=51
+Category: Healthcare / Medical Education
+Price: PKR 3,500 (discounted — only course at this price point)
+Format: Self-Paced
+Students Enrolled: 13
+Last Updated: 11 February 2026
+Rating: Not yet rated
+Duration: 9 modules / 15 learning hours
+
+Description
+Provides essential knowledge and skills for healthcare professionals and medical students to confidently manage medical emergencies. Covers cardiovascular emergencies, respiratory emergencies, acute abdomen, and more. Emphasizes rapid detection, early interventions, and evidence-based emergency management across ED, outpatient, and inpatient settings.
+What You'll Learn
+
+History-taking
+Physical examination
+Rapid diagnostic assessment
+Early intervention strategies
+Emergency management protocols
+Cardiovascular, respiratory, GI, CNS, endocrine emergencies
+Poisoning management
+Acute abdomen and shock management
+
+Prerequisites
+
+Knowledge of basic medical illnesses
+Basic understanding of human anatomy and physiology
+Familiarity with medical terminology
+Knowledge of basic life support principles
+
+Course Modules
+
+Introduction to Medical Emergencies
+Cardiovascular System
+Respiratory System
+Gastrointestinal Tract
+Central Nervous System
+Endocrine System
+Poisoning
+Acute Abdomen
+Shock
+Final Exam
+Course Certificate
+
+Course Content Stats
+
+Sections: 12
+Activities: 18
+Resources: 55
+
+Technical Requirements
+
+Reliable internet connection
+Computer or mobile device with webcam
+Audio and video capabilities
+Compatible web browser (Chrome, Firefox)
+
+Who Should Enroll
+
+Medical Students
+Physician Assistants
+Emergency Medical Technicians (EMTs)
+Paramedics
+Healthcare Administrators
+House Officers
+Junior Doctors
+
+Instructors
+
+Dr. Khadeejah Sajwani — MBBS (Islamabad Medical and Dental College), full GMC (UK) registration. Lecturer, NUST School of Health Sciences. Specializes in simulation-based learning and acute care. Co-director of this course. Published work in medical education and AI integration in learning.
+Dr. Tayyaba Maheen — MBBS (National University of Medical Sciences, 2022), full GMC (UK) registration. Lecturer at NUST. Clinical expertise in internal and emergency medicine.
+
+Includes
+Custom Certificates, Feedback, Forums, Quizzes, Resources
+
+COURSE 8: Fundamentals of Aircraft Aerodynamic Design
+
+URL: https://connected.nust.edu.pk/course/view.php?id=52
+Category: Engineering and Computer Science
+Price: PKR 7,000
+Format: Self-Paced
+Students Enrolled: 51
+Last Updated: 9 February 2026
+Rating: Not officially rated (2 positive reviews)
+
+Description
+Covers aerodynamic thinking and the aircraft configuration aerodynamic design process. Bridges the gap between theoretical and applied aerodynamics for aerospace design engineers. Addresses flow regimes, drag, configuration options, and specific issues in different flight conditions.
+What You'll Learn
+
+Overview of the aerodynamic design process
+Subsonic aerodynamics
+Transonic aerodynamics
+High angle of attack flight
+High-lift systems
+Supersonic and hypersonic aerodynamics
+
+Course Modules
+
+Aircraft Aerodynamic Design
+Configuration Aerodynamics
+Aerodynamic Design Phases
+
+Course Content Stats
+
+Sections: 4
+Activities: 14
+Resources: 10
+
+Technical Requirements
+
+Reliable internet connection
+Computer or mobile device with webcam
+Audio and video capabilities
+Compatible web browser (Chrome, Firefox)
+
+Who Should Enroll
+
+Aerospace engineers
+Aircraft designers
+Aerodynamics engineers
+Aviation engineers
+Mechanical engineers
+Aerospace researchers
+Flight test engineers
+Aircraft performance engineers
+
+Instructor
+Muhammad Irfan Zafar
+Includes
+Feedback, Forums, Quizzes, Resources, Video Lectures
+Student Reviews
+
+"Exceptionally well-structured and informative"
+"Significantly strengthened understanding of aircraft design concepts"
+"Highly recommended for aerospace enthusiasts and engineering students"
+
+
+COURSE 9: Ideology and Constitution of Pakistan
+
+URL: https://connected.nust.edu.pk/course/view.php?id=203
+Category: Credit Hour Courses (UG Mandatory Credit Course)
+Course Code: HU-127
+Price: Not publicly listed (mandatory enrolled course — login required)
+Format: UG Mandatory Credit Course
+Students Enrolled: 300 (largest enrolled course)
+Last Updated: 30 April 2026
+Rating: 2.89 / 5 (9 ratings)
+
+Description
+Introduces the ideological foundations of Pakistan and the Constitution. Explores Pakistan's historical struggle, the rationale behind its creation, and the constitutional framework including fundamental rights and key amendments.
+What You'll Learn
+
+Role of ideology in nation-building
+Historical struggle and rationale behind Pakistan's creation
+The need for a constitution and its structural framework
+Fundamental features of the Constitution of Pakistan
+Key constitutional amendments and their governance impact
+
+Course Modules (Week by Week)
+
+Week 1: Historical Perspective
+Week 2: British Period and War of Independence
+Week 3: Understanding of Ideology
+Week 4: Significance and Characteristics of Ideology
+Week 5: Evolution of Indian Muslim Nationalism
+Week 6: Sir Syed Ahmed Khan and Two-Nation Theory
+Week 7: Freedom Movement and Creation of Pakistan
+Week 8: Pakistan Movement and Pakistan Resolution
+Week 10: Introduction to Constitution of Pakistan
+Week 11: Early Challenges and Objective Resolution
+Week 12: Constitution and State Structure
+Week 13: Fundamental Rights Guaranteed by Constitutions
+Week 14: Principles of Policy and Responsibilities
+Week 15: Amending the Constitution
+Week 16: Notable Constitutional Amendments
+
+Course Content Stats
+
+Sections: 16
+Activities: 95 (second highest)
+Resources: 46
+
+Who Should Enroll
+
+All NUST undergraduate students (mandatory across all programs)
+Relevant to law, education, media, history, governance, engineering, and medicine
+
+Includes
+Forums, Open Forums, Quizzes, Resources, Video Lectures
+Student Reviews
+
+Mixed: some find it interesting for understanding constitutional history; others find it misaligned with their degree program and prefer in-class delivery
+Rating breakdown: 22% five-star, 11% four-star, 33% three-star, 0% two-star, 33% one-star
+
+
+COURSE 10: Idea Validation for Startups
+
+URL: https://connected.nust.edu.pk/course/view.php?id=48
+Category: Business and Social Sciences / Entrepreneurship
+Price: PKR 7,000
+Format: Self-Paced
+Students Enrolled: 3
+Last Updated: 9 February 2026
+Rating: Not yet rated
+Duration: 6–8 weeks
+
+Description
+Equips aspiring entrepreneurs with the knowledge and tools to systematically test and validate their startup ideas. Provides frameworks including the feasibility framework, idea launch pad, and critique pad. Includes practical projects and real-world case studies.
+What You'll Learn
+
+Feasibility Analysis (using feasibility framework, idea launch pad, critique pad)
+Market Research and Competitive Analysis
+Customer Validation
+Financial Assessment
+Data analysis, problem-solving, and decision-making for startups
+
+Prerequisites
+
+Knowledge of basic mathematics
+Knowledge of basic data collection and analysis tools
+Must complete all lectures and assessments to unlock next modules
+
+Course Modules
+
+General (welcome, navigation guide, instructor profile)
+Module 1: Entrepreneurship — An Introduction
+Module 2: Assessing Product Market Fit
+Module 3: Assessing Functional-Financial Fit
+Module 4: Capstone Project
+Course Certificate
+
+Course Content Stats
+
+Sections: 6
+Activities: 17
+Resources: 46
+
+Technical Requirements
+
+Reliable internet connection
+Computer or mobile device with webcam
+Audio and video capabilities
+Compatible web browser (Chrome, Firefox)
+
+Who Should Enroll
+
+Startup founders and entrepreneurs
+Innovation teams and intrapreneurs
+Product managers and developers
+Anyone with an entrepreneurial idea
+Anyone interested in launching their own business
+
+Course Outcome
+After completion, participants can make an informed decision to go ahead, refine, or drop their startup idea entirely.
+Instructor
+Dr. Madiha Gohar
+Includes
+Assignments, Custom Certificates, Feedback, Forums, Quizzes, Resources
+
+COURSE 11: HSSC Math Condensed Course
+
+URL: https://connected.nust.edu.pk/course/view.php?id=186
+Category: Engineering and Computer Science / Admission Prerequisite
+Price: PKR 40,000 (most expensive course on the platform)
+Re-attempt Fee (if failed): PKR 3,000
+Format: Self-Paced (Start Today!)
+Students Enrolled: 583 (highest enrollment on the platform)
+Last Updated: 16 March 2026
+Rating: 4.52 / 5 (25 ratings)
+Duration: 8 weeks recommended; self-paced
+
+Description
+A mandatory course for HSSC Pre-Medical students who want to apply to NUST UG Engineering programs, as per Pakistan Engineering Council (PEC) policy. Designed to bridge the mathematical knowledge gap required for engineering admission. NOT required for students applying to Computing programs (BS CS, AI, DS & BI).
+Important Deadlines:
+
+NET-2026 applicants must complete the course and final exam by 25 July 2026 to be considered for Fall 2026 admissions.
+
+What You'll Learn
+
+Algebra and Equations
+Functions and Graphs
+Arithmetic and Geometric Progressions
+Probability
+Trigonometry Basics
+Calculus — Differentiation and Integration
+Coordinate Geometry
+Conic Sections
+
+Course Modules
+
+Number Systems
+Sets, Functions and Groups
+Matrices and Determinants
+Quadratic Equations
+Partial Fractions
+Sequences and Series
+Permutation, Combination and Probability
+Binomial Theorem
+Trigonometry
+Applications of Trigonometry
+Functions and Limits
+Differentiation
+Integration
+Introduction to Analytic Geometry & Linear Inequalities and Linear Programming
+Conic Section
+Vectors
+Final Exam
+Retake Exam (only for students who failed Final Exam)
+Course Feedback
+Course Certificate
+
+Course Content Stats
+
+Sections: 21
+Activities: 104
+Resources: 87
+
+Final Exam Details
+
+Format: Online MCQ (multiple choice questions)
+Duration: 2 hours
+Minimum passing score: 60% (to be eligible for NUST merit list)
+Accessible after completing all modules of Math HSSC Part 2
+Retake fee: PKR 3,000
+
+Certificate
+
+Lifetime validity upon successful completion
+Can be used for admission in subsequent years
+
+Who Should Enroll
+
+HSSC Pre-Medical students (who have NOT taken additional math) aiming for NUST UG Engineering Programs
+Students seeking to strengthen intermediate-level mathematics skills
+NOT required for: BS CS, AI, DS, and BI applicants
+
+Important Note
+Clearing the Math Condensed Course does NOT exempt students from the NET (NUST Entry Test).
+Payment
+
+Debit/Credit Card: Any national or international card (pay online)
+Bank Transfer: HBL — Account: 22927901792901 | IBAN: PK16HABB0022927901792901
+Email receipt + full name + registered email to info@connected.nust.edu.pk after bank transfer
+Bank transfer enrollment takes up to 48 hours
+
+Instructor
+Dr. Maria Athar — Assistant Professor, NUST (Mathematics). PhD in Mathematics, specializing in fluid flow and heat transfer. Gold Medal in MPhil from NUST. High Achiever Award in Research Publications from NUML. 42 international publications. Head of Scientific Committee for 14th EMS International Research Conference, Makkah.
+Includes
+Custom Certificates, Feedback, Forums, Quizzes, Resources, Video Lectures
+Student Reviews
+
+Consistently praised for making complex math accessible
+"Perfect for students who have a two-year gap from math studies"
+"Dr. Maria is brilliant — explains the hardest chapters like a piece of cake"
+Rating breakdown: 68% five-star, 24% four-star, 0% three-star, 8% two-star, 0% one-star
+
+
+COURSE 12: Corporate Ethics and Professionalism
+
+URL: https://connected.nust.edu.pk/course/view.php?id=40
+Category: Professional and Personal Development
+Price: PKR 7,000
+Format: Self-Paced
+Students Enrolled: 31
+Last Updated: 9 February 2026
+Rating: 4.8 / 5 (5 ratings) — HIGHEST RATED COURSE ON THE PLATFORM
+Duration: 6–8 weeks
+
+Description
+Introduces young professionals to the importance of ethics in a corporate environment — covering internal policies, societal roles, corporate culture, CSR, and contemporary ethical dilemmas. Addresses employee privacy, harassment, diversity & inclusion, and professionalism using concepts like Transactional Contracts and Management from the Middle.
+What You'll Learn
+
+Code of ethics in business
+Three dimensions of corporate ethics
+Congruence model and corporate culture
+Corporate Social Responsibility (CSR) model
+Contemporary ethical dilemmas (employee privacy, power harassment, sexual harassment, diversity & inclusion)
+Professionalism in teams and organizations
+Transactional Contracts
+Management from the Middle
+
+Prerequisites / Course Requirements
+
+Complete all modules
+Participate in discussions and receive at least 1 peer review rated above 5
+Take the assessment quizzes
+
+Course Modules
+
+Welcome Note (announcements, instructor portfolio, navigation)
+Module 1: Ethics and Business Organizations
+Module 2: Ethics, Customers, and Corporate Social Responsibility (CSR)
+Module 3: Corporate Ethics and Employees
+Module 4: Ethics and Professionalism
+Certificate
+
+Course Content Stats
+
+Sections: 6
+Activities: 37
+Resources: 35
+
+Who Should Enroll
+
+Ambitious young professionals building their career foundation
+Early-career managers and leaders
+Individuals transitioning to new roles or industries
+Anyone seeking to enhance critical thinking and professional skills in corporate ethics
+
+Instructor
+Fazl-e-Muqeem Chaudry — MBA (Warwick Business School, UK). 32+ years in public and quasi-public sector organizations. Expert in HR, general administration, capacity building. Founder of Aspire Training and Consulting Pakistan (SECP & FBR incorporated). Trained professionals at NADRA, Chashma Power Project, SECP, World Bank and USAID-funded projects, Pakistan Telecom Corporation. Member of National Mirror Committee for HR Standards under PSQCA.
+Includes
+Custom Certificates, Feedback, Forums, Quizzes, Resources
+Student Reviews
+
+"Super engaging and so candid — so many takeaways"
+"Engaging and clear, making complex concepts easy with real-world examples"
+Rating breakdown: 80% five-star, 20% four-star
+
+
+COURSE 13: Public International Law Essentials: A Professional's Guide
+
+URL: https://connected.nust.edu.pk/course/view.php?id=49
+Category: Business and Social Sciences / Law
+Price: PKR 7,000
+Format: Self-Paced
+Students Enrolled: 3
+Last Updated: 11 February 2026
+Rating: Not yet rated
+Duration: 6–8 weeks
+
+Description
+Provides practical understanding of Public International Law, contemporary international trends, state and organization practices. Emphasizes hands-on exploratory legal analysis, real-world case studies, and simulation-based exercises for applying law to grey areas where jurisprudence is scarce.
+What You'll Learn
+
+Basic tenets of the UN Charter and its organs
+Role of the ICJ (International Court of Justice) in interpreting and shaping conventional law
+Primary and secondary sources of Public International Law
+Implementation mechanisms
+Real-world case studies and exploratory legal analysis
+Different legal systems existing in the world
+
+Prerequisites / Course Requirements
+
+Complete all modules
+Participate in discussions and receive at least 1 peer review rated above 5
+Take the assessment quizzes
+
+Course Modules
+
+General (welcome, navigation guide, instructor profile)
+Introduction to Public International Law (video)
+Foundations of Public International Law
+Primary Sources of Public International Law
+Secondary Sources of Public International Law
+Implementation Mechanism
+Real-World Case Studies
+Course Certificate
+
+Course Content Stats
+
+Sections: 7
+Activities: 15
+Resources: 27
+
+Who Should Enroll
+
+Young professionals from legal and international relations fields
+Diplomats and government officials
+Human rights advocates and activists
+International business professionals
+Researchers and academics
+Policy analysts and advisors
+NGO staff
+United Nations employees and staff
+
+Instructor
+Haziq Ali Khan — Lecturer of Law, NUST. Specializes in Public International Law and International Humanitarian Law. Interned at ICRC (International Committee of the Red Cross) and Research Society of International Law (RSIL).
+Includes
+Assignments, Custom Certificates, Feedback, Forums, Quizzes, Resources
+
+COURSE 14: Programming Fundamentals for AI and Data Science
+
+URL: https://connected.nust.edu.pk/course/view.php?id=194
+Category: Engineering and Computer Science / Computing
+Price: PKR 24,000 (second most expensive course)
+Format: Self-Paced
+Students Enrolled: 72
+Last Updated: 11 February 2026
+Rating: Not officially rated
+Special Note: Designated as an online pre-requisite course for MS AI and Data Science students from non-computing backgrounds
+
+Description
+A concise and practical introduction to computer programming, relational databases, and foundational AI concepts. Through hands-on activities and guided lessons, students learn to write basic code, design and query databases, and explore how AI techniques are applied in real-world scenarios.
+What You'll Learn
+
+Object-Oriented Programming (OOP)
+Database Systems (relational databases, querying)
+Data Structures
+Foundational AI concepts and real-world applications
+
+Course Modules
+
+Object Oriented Programming
+Database Systems
+Data Structures
+Course Certificate
+
+Course Content Stats
+
+Sections: 5
+Activities: 142 (HIGHEST activity count of all courses)
+Resources: 20
+
+Who Should Enroll
+
+Students preparing for university-level CS or engineering programs
+Professionals from non-technical backgrounds seeking to transition into tech
+MS AI and DS students from non-computing backgrounds (primary audience)
+Anyone interested in basics of coding, data management, and AI applications
+
+Payment
+
+Debit/Credit Card: Any national or international card
+Bank Transfer: HBL — Account: 22927901792901 | IBAN: PK16HABB0022927901792901
+Email receipt + full name + registered email to info@connected.nust.edu.pk after bank transfer
+Bank transfer enrollment takes up to 48 hours
+
+Instructors
+
+Dr. Ayesha Hakim — Assistant Professor, SEECS NUST. PhD Computer Science. Specializes in Software Engineering and Software Process Improvement.
+Dr. Mehwish Kiran — Assistant Professor, SEECS NUST. PhD Computer Science. Specializes in Software Engineering and Machine Learning.
+Dr. Fahad Ahmed Satti — Assistant Professor, SEECS NUST. PhD Computer Science. Specializes in Computer Vision and Machine Learning (image processing, pattern recognition, deep learning).
+
+Includes
+Custom Certificates, Forums, Quizzes, Resources, Video Lectures
+
+COURSE 15: Problem Solving and Decision Making
+
+URL: https://connected.nust.edu.pk/course/view.php?id=179
+Category: Professional and Personal Development
+Price: PKR 7,000
+Format: Self-Paced
+Students Enrolled: 39
+Last Updated: 9 February 2026
+Rating: Not yet rated
+
+Description
+Equips participants with essential problem-solving and decision-making skills for personal and professional settings. Uses decision-making theories, models, tools, and frameworks. Includes real-world case studies, simulations, and interactive exercises. Flexible, self-paced format.
+What You'll Learn
+
+Decision-Making Theories and Models
+Common Tools and Techniques of Problem Solving & Decision Making
+Application of Advanced PS & DM Tools
+Case Studies in Problem Solving and Decision Making
+
+Prerequisites
+
+Basic computer skills (MS Office proficiency)
+MATLAB and Excel proficiency preferred
+Prior experience as a leader or manager preferred
+Proficiency in mathematics
+
+Course Modules
+
+Self-Introduction and Pre-Assessment
+Module 1: Introduction to Decision-Making Theory & Models
+Module 2: Common Tools & Techniques of PS & DM
+Module 3A: Advanced Tools & Techniques of PS & DM
+Module 3B: Advanced Tools & Techniques of PS & DM
+Module 3B (Continued)
+Module 3C: Advanced Tools & Techniques of PS & DM
+Module 4: Case Studies — PS & DM
+Course Feedback
+Course Certificate
+
+Course Content Stats
+
+Sections: 11
+Activities: 12
+Resources: 53
+
+Who Should Enroll
+
+Professionals in leadership or management roles
+Anyone seeking to improve decision-making in personal and professional settings
+Managers, team leaders, and organizational decision-makers
+
+Instructor
+Dr. Faheem Qaisar Jamal — PhD Engineering Management. College of Aeronautical Engineering, Risalpur (constituent college of NUST). 20+ years of experience in management of technical organizations and quality assurance. ~10 years of teaching experience at higher education institutions in Pakistan.
+Includes
+Assignments, Custom Certificates, Feedback, Forums, Quizzes, Resources, Surveys
+
+COURSE 16: Scholarship Champions: Fulbright Program
+
+URL: https://connected.nust.edu.pk/course/view.php?id=12
+Category: Professional and Personal Development / Career Development
+Price: FREE (self-enrollment, no cost)
+Format: Self-Paced
+Students Enrolled: 170
+Last Updated: 18 November 2025
+Rating: Not formally rated (2 positive reviews)
+
+Description
+A comprehensive guide to the Fulbright Scholarship Program. Covers history, objectives, eligibility, application procedures, deadlines, and tips for crafting strong personal statements. Designed to maximize a student's chances of winning this prestigious scholarship.
+What You'll Learn
+
+History and objectives of the Fulbright Scholarship Program
+Eligibility requirements and criteria
+Step-by-step application guidance
+Tips for crafting strong personal statements
+Important deadlines and timelines
+Strategies for leveraging the scholarship for academic and professional growth
+
+Prerequisites
+
+A laptop or desktop
+High-speed internet connection
+Basic use of MS Word and supporting software
+Preliminary awareness of project management (recommended)
+
+Course Modules
+
+General (Announcements)
+Module 1 (course content)
+
+Course Content Stats
+
+Sections: 2
+Activities: 1
+Resources: 10
+(Lightest/shortest course on the platform)
+
+Who Should Enroll
+
+Undergraduate Students eager to pursue advanced studies
+Professionals seeking to enhance expertise through graduate education
+International students interested in studying at American universities
+Anyone considering graduate studies (guidance on standardized tests, personal statements, recommendation letters)
+
+Instructor
+Khudaija Ashfaq Ahmad — Lecturer, Department of Behavioral Sciences, S3H, NUST. MA Cognitive Science in Education (Columbia University, New York — completed on Fulbright Scholarship, Batch 2020). Fulbright mentor since Fall 2023, helping NUST students become top Fulbright candidates. Research interests: mathematical cognition and educational psychology.
+Includes
+Forums, Resources
+Student Reviews
+
+"Helpful"
+"Excellent Course"
+
+
+COURSE 17: (Unity Game Development — Details Pending)
+
+URL: https://connected.nust.edu.pk/course/view.php?id=178
+Category: Engineering and Computer Science
+Price: PKR 7,000
+Format: Self-Paced
+Students Enrolled: 16
+Last Updated: 14 May 2026
+Full details not yet available. Contact: info@connected.nust.edu.pk
+
+
+QUICK REFERENCE: ALL COURSES AT A GLANCE
+#Course NamePrice (PKR)RatingStudentsFormat1Applied ML & Data Analytics for Beginners7,000—28Self-Paced2Agile Project Management7,0003.33/543Self-Paced3Unity Game Development7,000—16Self-Paced4Essentials of Corporate Written Communication7,000—15Self-Paced5Essentials of Customer Analytics7,000—3Coming Soon6Emotional Intelligence: Building a Successful Career7,0004.4/558Self-Paced7Essentials of Medical Emergencies3,500—13Self-Paced8Fundamentals of Aircraft Aerodynamic Design7,000—51Self-Paced9Ideology & Constitution of PakistanFree/UG Credit2.89/5300UG Credit10Idea Validation for Startups7,000—3Self-Paced11HSSC Math Condensed Course40,0004.52/5583Self-Paced12Corporate Ethics and Professionalism7,0004.8/531Self-Paced13Public International Law Essentials7,000—3Self-Paced14Programming Fundamentals for AI & Data Science24,000—72Self-Paced15Problem Solving and Decision Making7,000—39Self-Paced16Scholarship Champions: Fulbright ProgramFREE—170Self-Paced
+
+FREQUENTLY ASKED QUESTIONS (FAQ)
+Q: Where is NUST ConnectEd?
+A: It is the online learning platform of NUST (National University of Sciences and Technology), Pakistan. Website: https://connected.nust.edu.pk
+Q: How do I enroll?
+A: Click "Enroll Now" on the course page. Pay via debit/credit card (instant enrollment) or HBL bank transfer (up to 48 hours for manual enrollment).
+Q: What is the standard course price?
+A: Most courses are PKR 7,000. Exceptions: Medical Emergencies (PKR 3,500), Programming Fundamentals for AI & DS (PKR 24,000), HSSC Math Condensed Course (PKR 40,000), Fulbright Program (FREE).
+Q: Do I get a certificate?
+A: Most courses include a custom certificate upon completion. The HSSC Math certificate is lifetime valid and usable for NUST admissions in future years.
+Q: Is the HSSC Math course mandatory for Computing programs?
+A: No. It is only mandatory for Pre-Medical students applying to NUST UG Engineering programs. Students applying to BS CS, AI, DS, and BI do NOT need it.
+Q: What is the HSSC Math final exam deadline for 2026 admissions?
+A: NET-2026 applicants must complete the course and final exam by 25 July 2026.
+Q: What happens if I fail the HSSC Math final exam?
+A: You can retake it for a fee of PKR 3,000.
+Q: Does clearing the HSSC Math course exempt me from NET?
+A: No. NET (NUST Entry Test) is still required.
+Q: How do I contact NUST ConnectEd?
+A: Email: info@connected.nust.edu.pk

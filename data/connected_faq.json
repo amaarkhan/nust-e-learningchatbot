@@ -1,0 +1,39 @@
+[
+  {
+    "question": "When should I apply?",
+    "answer": "You should apply during the enrollment period for your desired cohort. Each course has specific start and end dates, so be sure to check the course schedule and apply before the enrollment deadline.",
+    "source_url": "https://connected.nust.edu.pk/?redirect=#faq"
+  },
+  {
+    "question": "What is hybrid-based learning about?",
+    "answer": "Hybrid-based learning means that you will join a group of learners who start and finish the course together. This approach fosters a sense of community and allows for more structured learning, with opportunities for interaction and collaboration with your peers.",
+    "source_url": "https://connected.nust.edu.pk/?redirect=#faq"
+  },
+  {
+    "question": "What is Self Paced Learning about?",
+    "answer": "Self Paced Learning gives you the control to learn at your own pace on your schedule - anytime, anywhere. With expert-led courses and interactive exercises, you can master new skills with convenience and at the comfort of your home.",
+    "source_url": "https://connected.nust.edu.pk/?redirect=#faq"
+  },
+  {
+    "question": "How to enroll in the course at ConnectEd?",
+    "answer": "",
+    "note": "The FAQ item currently contains an embedded enrollment video instead of plain text.",
+    "source_url": "https://connected.nust.edu.pk/?redirect=#faq",
+    "video_url": "https://www.youtube.com/embed/fh8KJi6czCg"
+  },
+  {
+    "question": "Where do I access my student account?",
+    "answer": "You can access your student account by logging in to the ConnectEd platform using your registered email and password. Once logged in, you'll find all your course materials, progress, and account settings.",
+    "source_url": "https://connected.nust.edu.pk/?redirect=#faq"
+  },
+  {
+    "question": "How do I decide which courses to take?",
+    "answer": "To decide which courses to take, consider your learning goals, interests, and career objectives. Review the course descriptions, prerequisites, and outcomes to ensure they align with your personal and professional development plans.",
+    "source_url": "https://connected.nust.edu.pk/?redirect=#faq"
+  },
+  {
+    "question": "Where do I ask technology questions?",
+    "answer": "For any technology-related questions or issues, please contact the support team at info@ncl.nust.edu.pk or visit the help center on the platform for troubleshooting guides and FAQs.",
+    "source_url": "https://connected.nust.edu.pk/?redirect=#faq"
+  }
+]
